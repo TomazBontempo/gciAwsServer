@@ -70,12 +70,12 @@ function get_html_message() {
   </br>
     <p style="font-size: large;">Então agora da uma olhada no conteúdo completo.</p>
     <p style="font-size: large;">
-      Clique no link e garanta o Guia do Consumidor Inteligente para largar de ser trouxa!
+      Clique no link e garanta o Guia do Consumidor Inteligente com 50% de off! 
     </p>
     <div style="width: 50%; vertical-align: middle; margin: auto;">
     <img width="150px" " src="cid:logo"/>
   </div>
-  <a style="color:#ffd058; font-size: 30px" href="https://pay.hotmart.com/Q80361170S?bid=1679003476640"
+  <a style="color:#ffd058; font-size: 30px" href="https://pay.hotmart.com/Q80361170S?off=nuqocxfl"
       >Guia do consumidor inteligente</a
     >
 </div>

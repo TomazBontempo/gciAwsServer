@@ -76,12 +76,12 @@ function get_html_message() {
       </p>
       <p style="font-size: large;">
         Sabemos que irá gosta do conteúdo, então segue o link para o guia
-        completo:
+        completo com 50% de desconto!:
       </p>
       <div style="width: 50%; vertical-align: middle; margin: auto;">
       <img width="150px" " src="cid:logo"/>
     </div>
-    <a style="color:#ffd058; font-size: 30px" href="https://pay.hotmart.com/Q80361170S?bid=1679003476640"
+    <a style="color:#ffd058; font-size: 30px" href="https://pay.hotmart.com/Q80361170S?off=nuqocxfl"
         >Guia do consumidor inteligente</a
       >
   </div>

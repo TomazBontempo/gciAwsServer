@@ -71,7 +71,7 @@ function get_html_message() {
   </br>
     <p style="font-size: large;">Por isso resolvemos te ajudar com uma condição especial para solucionar seus problemas.</p>
     <p style="font-size: large;">
-      Clique no link e garanta seu Guia do Consumidor Inteligente por apenas 5,87!
+      Clique no link e garanta seu Guia do Consumidor Inteligente com 80% de desconto!
     </p>
     <div style="width: 50%; vertical-align: middle; margin: auto;">
     <img width="150px" " src="cid:logo"/>
